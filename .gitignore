@@ -1,0 +1,13 @@
+# Editor generated files #
+######################
+.vscode/*
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*.DS_Store
+.DS_Store
+
+*.sqlite3
+*.pyc
+__pycahce__/
